@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0110\u1ED3 \u00C1n 1\\QLCoffe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{319251B7-A1EB-4E9D-9935-00D31F854795}|QLCoffe\\QLCoffe.csproj|d:\\\u0111\u1ED3 \u00E1n 1\\qlcoffe\\qlcoffe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{319251B7-A1EB-4E9D-9935-00D31F854795}|QLCoffe\\QLCoffe.csproj|solutionrelative:qlcoffe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319251B7-A1EB-4E9D-9935-00D31F854795}|QLCoffe\\QLCoffe.csproj|D:\\\u0110\u1ED3 \u00C1n 1\\QLCoffe\\qlcoffe\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319251B7-A1EB-4E9D-9935-00D31F854795}|QLCoffe\\QLCoffe.csproj|solutionrelative:qlcoffe\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319251B7-A1EB-4E9D-9935-00D31F854795}|QLCoffe\\QLCoffe.csproj|D:\\\u0110\u1ED3 \u00C1n 1\\QLCoffe\\qlcoffe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319251B7-A1EB-4E9D-9935-00D31F854795}|QLCoffe\\QLCoffe.csproj|solutionrelative:qlcoffe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319251B7-A1EB-4E9D-9935-00D31F854795}|QLCoffe\\QLCoffe.csproj|D:\\\u0110\u1ED3 \u00C1n 1\\QLCoffe\\qlcoffe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319251B7-A1EB-4E9D-9935-00D31F854795}|QLCoffe\\QLCoffe.csproj|solutionrelative:qlcoffe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n 1\\QLCoffe\\QLCoffe\\Program.cs",
+              "RelativeDocumentMoniker": "QLCoffe\\Program.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n 1\\QLCoffe\\QLCoffe\\Program.cs",
+              "RelativeToolTip": "QLCoffe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T04:30:36.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n 1\\QLCoffe\\QLCoffe\\Form1.cs",
+              "RelativeDocumentMoniker": "QLCoffe\\Form1.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n 1\\QLCoffe\\QLCoffe\\Form1.cs",
+              "RelativeToolTip": "QLCoffe\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAywBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T12:09:29.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n 1\\QLCoffe\\QLCoffe\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "QLCoffe\\Form1.Designer.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n 1\\QLCoffe\\QLCoffe\\Form1.Designer.cs",
+              "RelativeToolTip": "QLCoffe\\Form1.Designer.cs",
+              "ViewState": "AQIAANABAAAAAAAAAAAYwN4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T06:58:52.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n 1\\QLCoffe\\QLCoffe\\Form1.cs",
+              "RelativeDocumentMoniker": "QLCoffe\\Form1.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n 1\\QLCoffe\\QLCoffe\\Form1.cs [Design]",
+              "RelativeToolTip": "QLCoffe\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T06:58:23.824Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

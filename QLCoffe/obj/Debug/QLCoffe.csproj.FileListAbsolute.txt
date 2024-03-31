@@ -1,0 +1,10 @@
+D:\Đồ Án 1\QLCoffe\QLCoffe\bin\Debug\QLCoffe.exe.config
+D:\Đồ Án 1\QLCoffe\QLCoffe\bin\Debug\QLCoffe.exe
+D:\Đồ Án 1\QLCoffe\QLCoffe\bin\Debug\QLCoffe.pdb
+D:\Đồ Án 1\QLCoffe\QLCoffe\obj\Debug\QLCoffe.csproj.AssemblyReference.cache
+D:\Đồ Án 1\QLCoffe\QLCoffe\obj\Debug\QLCoffe.Form1.resources
+D:\Đồ Án 1\QLCoffe\QLCoffe\obj\Debug\QLCoffe.Properties.Resources.resources
+D:\Đồ Án 1\QLCoffe\QLCoffe\obj\Debug\QLCoffe.csproj.GenerateResource.cache
+D:\Đồ Án 1\QLCoffe\QLCoffe\obj\Debug\QLCoffe.csproj.CoreCompileInputs.cache
+D:\Đồ Án 1\QLCoffe\QLCoffe\obj\Debug\QLCoffe.exe
+D:\Đồ Án 1\QLCoffe\QLCoffe\obj\Debug\QLCoffe.pdb
